@@ -322,19 +322,13 @@ p {
     padding: 40px 50px;
   }
 
-  #about-info .info-left,
-  #about-info .info-right {
+  #about-info .info-left {
     float: none;
     width: 100%;
   }
 
   #about-info .info-right {
-    padding: 20px 0px;
-  }
-
-  #about-info .info-right img {
-    border-radius: 0%;
-    width: 100%;
+    display: none;
   }
 
   #testimonials {
@@ -351,5 +345,39 @@ p {
 
   #contact-info .container .box h3 {
     padding-bottom: 0px;
+  }
+}
+
+/* Tablet Styles */
+
+@media only screen and (min-width: 415px) and (max-width: 768px) {
+
+  #home-info {
+    height: 500px;
+  }
+
+  #home-info .info-content {
+    padding: 50px;
+  }
+
+  #about-info .info-left {
+    float: none;
+    width: 100%;
+  }
+
+  #about-info .info-right {
+    display: none;
+  }
+
+  #testimonials {
+    height: 800px;
+  }
+
+  #contact-info .container .box {
+    padding: 50px 20px;
+  }
+
+  #contact-form textarea {
+    height: 195px;
   }
 }
