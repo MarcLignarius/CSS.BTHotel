@@ -35,6 +35,10 @@ p {
   padding: 2px 20px;
 }
 
+#navbar .container {
+  padding: 0px 20px;
+}
+
 .text-primary {
   color: #f7c08a;
 }
