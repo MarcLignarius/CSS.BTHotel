@@ -32,7 +32,7 @@ p {
   margin: auto;
   max-width: 1600px;
   overflow: auto;
-  padding: 0 20px;
+  padding: 2px 20px;
 }
 
 .text-primary {
@@ -270,7 +270,7 @@ p {
 }
 
 #contact-form textarea {
-  height: 200px;
+  height: 235px;
 }
 
 #contact-form input:focus,
