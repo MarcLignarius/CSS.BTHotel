@@ -1,4 +1,4 @@
-# HotelPDX
+# Hotel PDX
 
 #### _April 2020_
 
