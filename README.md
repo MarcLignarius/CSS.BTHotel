@@ -31,11 +31,11 @@ Mock web page for a hotel featuring an index, about and contact page. Fully resp
 
 * Launch your terminal.
 * `cd desktop` Navigate to the desktop.
-* `git clone "https://github.com/MarcLignarius/CSS.BTHotel"` Clone this repository to your desktop.
-* `cd CSS.BTHotel` Open up the cloned repository.
+* `git clone "https://github.com/MarcLignarius/CSS.HotelPDX"` Clone this repository to your desktop.
+* `cd CSS.HotelPDX` Open up the cloned repository.
 * `open index.html` to open the application in your browser.
 
-Alternatively, visit https://marclignarius.github.io/CSS.BTHotel/ to see the live version of the application.
+Alternatively, visit https://marclignarius.github.io/CSS.HotelPDX/ to see the live version of the application.
 
 ## Known Bugs
 There are no known bugs as of that last release.
