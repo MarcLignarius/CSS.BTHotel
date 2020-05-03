@@ -75,4 +75,9 @@
 
 #contact-info .box {
   border-bottom: #444 dotted 1px;
+  padding: 30px;
+}
+
+#contact-info .box:last-child {
+  border-bottom: none;
 }
